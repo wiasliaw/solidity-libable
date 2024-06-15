@@ -1,0 +1,23 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    devDependencies:
+      forge-std:
+        specifier: github:foundry-rs/forge-std
+        version: https://codeload.github.com/foundry-rs/forge-std/tar.gz/75b3fcf052cc7886327e4c2eac3d1a1f36942b41
+
+packages:
+
+  forge-std@https://codeload.github.com/foundry-rs/forge-std/tar.gz/75b3fcf052cc7886327e4c2eac3d1a1f36942b41:
+    resolution: {tarball: https://codeload.github.com/foundry-rs/forge-std/tar.gz/75b3fcf052cc7886327e4c2eac3d1a1f36942b41}
+    version: 1.8.2
+
+snapshots:
+
+  forge-std@https://codeload.github.com/foundry-rs/forge-std/tar.gz/75b3fcf052cc7886327e4c2eac3d1a1f36942b41: {}
